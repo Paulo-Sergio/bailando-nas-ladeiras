@@ -1,9 +1,11 @@
 <?php
 
-class PostsController extends Controller {
+class VideosController extends Controller {
 
     public function index() {
-        echo "Lista das Postagens";
+        $dados = array();
+        
+        $this->loadTemplate('videos', $dados);
     }
 
     public function ver($id) {

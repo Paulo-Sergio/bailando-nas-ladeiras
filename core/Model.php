@@ -7,12 +7,12 @@ class Model {
 
     public function __construct() {
         global $config;
-        try{
-            $this->db = new PDO("mysql:dbname=".$config['dbname'].";host=".$config['dbhost'].";charset=utf8",
-                $config['dbuser'], $config['dbpass']);
-        } catch (PDOException $e) {
-            echo "Falou: " . $e->getMessage();
-        }
+//        try{
+//            $this->db = new PDO("mysql:dbname=".$config['dbname'].";host=".$config['dbhost'].";charset=utf8",
+//                $config['dbuser'], $config['dbpass']);
+//        } catch (PDOException $e) {
+//            echo "Falou: " . $e->getMessage();
+//        }
         
     }
 }
