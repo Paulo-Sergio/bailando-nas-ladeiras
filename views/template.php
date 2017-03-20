@@ -299,40 +299,40 @@
                 <br>			
                 <div class="row isotope-container">
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=9vMh9f41pqE"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=JVpTp8IHdEg"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=9vMh9f41pqE"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=JVpTp8IHdEg"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=9vMh9f41pqE"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=JVpTp8IHdEg"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=9vMh9f41pqE"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                     <div class="col-sm-6 col-md-3 isotope-item">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                        <a data-fancybox href="https://www.youtube.com/watch?v=JVpTp8IHdEg"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                 </div>
 
@@ -373,6 +373,11 @@
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6 isotope-item">
+                        <a href="<?= BASE_URL ?>assets/images/galeria_fotos/4_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/4_s.jpg" width="400"/>
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 isotope-item">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/1_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
                             <img src="<?= BASE_URL ?>assets/images/galeria_fotos/1_s.jpg" width="400"/>
                         </a>
@@ -385,6 +390,11 @@
                     <div class="col-md-3 col-sm-6 isotope-item">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/3_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
                             <img src="<?= BASE_URL ?>assets/images/galeria_fotos/3_s.jpg" width="400"/>
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 isotope-item">
+                        <a href="<?= BASE_URL ?>assets/images/galeria_fotos/4_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/4_s.jpg" width="400"/>
                         </a>
                     </div>
                 </div><!-- row -->
