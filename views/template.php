@@ -231,27 +231,27 @@
                 <div class="space"></div>
 
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 col-xs-12">
                         <div class="media">
                             <div class="media-body text-center">
                                 <h4 class="media-heading">Parceiro 1</h4>
-                                <img  class="img-thumbnail img-responsive" src="http://placehold.it/350x150"/>
+                                <img  class="img-thumbnail img-responsive" src="http://placehold.it/650x400"/>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 col-xs-12">
                         <div class="media">
                             <div class="media-body text-center">
                                 <h4 class="media-heading">Parceiro 2</h4>
-                                <img  class="img-thumbnail img-responsive" src="http://placehold.it/350x150"/>
+                                <img  class="img-thumbnail img-responsive" src="http://placehold.it/650x400"/>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 col-xs-12">
                         <div class="media">
                             <div class="media-body text-center">
                                 <h4 class="media-heading">Parceiro 3</h4>
-                                <img  class="img-thumbnail img-responsive" src="http://placehold.it/350x150"/>
+                                <img  class="img-thumbnail img-responsive" src="http://placehold.it/650x400"/>
                             </div>
                         </div>
                     </div>
@@ -260,27 +260,27 @@
                 <div class="space"></div>
 
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 col-xs-12">
                         <div class="media">
                             <div class="media-body text-center">
                                 <h4 class="media-heading">Parceiro 4</h4>
-                                <img class="img-thumbnail img-responsive" src="http://placehold.it/350x150"/>
+                                <img class="img-thumbnail img-responsive" src="http://placehold.it/650x400"/>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 col-xs-12">
                         <div class="media">
                             <div class="media-body text-center">
                                 <h4 class="media-heading">Parceiro 5</h4>
-                                <img class="img-thumbnail img-responsive" src="http://placehold.it/350x150"/>
+                                <img class="img-thumbnail img-responsive" src="http://placehold.it/650x400"/>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 col-xs-12">
                         <div class="media">
                             <div class="media-body text-center">
                                 <h4 class="media-heading">Parceiro 6</h4>
-                                <img class="img-thumbnail img-responsive" src="http://placehold.it/350x150"/>
+                                <img class="img-thumbnail img-responsive" src="http://placehold.it/650x400"/>
                             </div>
                         </div>
                     </div>
@@ -298,34 +298,42 @@
                 <p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt ut laboriosam.</p>
                 <br>			
                 <div class="row">
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
-                    </div>
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=KDxJlW6cxRk&list=RDQMB-XDWzkbE10&index=16"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                 </div>
 
                 <div class="space"></div>
 
                 <div class="row">
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
-                    <div class="col-md-3">
-                        <a class="youtube" href="https://www.youtube.com/watch?v=KDxJlW6cxRk&list=RDQMB-XDWzkbE10&index=16"><img class="img-rounded img-responsive" src="http://placehold.it/290x200"/></a>
+                </div>
+
+                <div class="space"></div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=9vMh9f41pqE&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=Bznxx12Ptl0&index=3&list=RDQMB-XDWzkbE10"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <a class="youtube" href="https://www.youtube.com/watch?v=JVpTp8IHdEg&list=RDQMB-XDWzkbE10&index=8"><img class="img-rounded img-responsive" src="http://placehold.it/400x250"/></a>
                     </div>
                 </div>
 
@@ -350,49 +358,39 @@
                 <p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt ut laboriosam.</p>
                 <br>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/1_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/1_s.jpg"/>
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/1_s.jpg" width="400"/>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/2_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/2_s.jpg"/>
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/2_s.jpg" width="400"/>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/3_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/3_s.jpg"/>
-                        </a>
-                    </div>
-                    <div class="col-md-3">
-                        <a href="<?= BASE_URL ?>assets/images/galeria_fotos/4_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/4_s.jpg"/>
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/3_s.jpg" width="400"/>
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="space"></div>
-                
+
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/1_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/1_s.jpg"/>
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/1_s.jpg" width="400"/>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/2_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/2_s.jpg"/>
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/2_s.jpg" width="400"/>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
                         <a href="<?= BASE_URL ?>assets/images/galeria_fotos/3_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/3_s.jpg"/>
-                        </a>
-                    </div>
-                    <div class="col-md-3">
-                        <a href="<?= BASE_URL ?>assets/images/galeria_fotos/4_b.jpg" data-fancybox="images" data-width="2048" data-height="1365">
-                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/4_s.jpg"/>
+                            <img src="<?= BASE_URL ?>assets/images/galeria_fotos/3_s.jpg" width="400"/>
                         </a>
                     </div>
                 </div>
