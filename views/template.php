@@ -409,9 +409,6 @@
         <script type="text/javascript" src="<?= BASE_URL ?>assets/plugins/jquery.min.js"></script>
         <script type="text/javascript" src="<?= BASE_URL ?>assets/bootstrap/js/bootstrap.min.js"></script>
 
-        <!-- Video html5lightbox -->
-        <script type="text/javascript" src="<?= BASE_URL ?>assets/plugins/bootstrap.youtubemodal.js"></script>
-
         <!-- Gallery Fancybox -->
         <script type="text/javascript" src="<?= BASE_URL ?>assets/plugins/jquery.fancybox.min.js"></script>
 
@@ -432,48 +429,5 @@
 
         <!-- Custom Scripts -->
         <script type="text/javascript" src="<?= BASE_URL ?>assets/js/custom.js"></script>
-
-        <script type="text/javascript">
-            $(".youtube").YouTubeModal({
-                // video ID
-                youtubeId: '',
-                // modal title
-                title: '',
-                // use video's title
-                useYouTubeTitle: true,
-                // default ID attribute
-                idAttribute: 'rel',
-                // default CSS class
-                cssClass: 'YouTubeModal',
-                // width/height
-                width: 800,
-                height: 480,
-                // autohide
-                autohide: 2,
-                // autoplay
-                // 0 = disable
-                autoplay: 1,
-                // color
-                color: 'red',
-                // shows controls
-                // 0 = disable
-                controls: 1,
-                // fullscreen button
-                // 1 = enable
-                fs: 1,
-                // infinite loop
-                // 1 = enable
-                loop: 0,
-                // show video information
-                // 1 = enable
-                showinfo: 0,
-                // player theme
-                theme: 'light'
-
-            });
-
-            $('.fancybox').fancybox();
-
-        </script>
     </body>
 </html>
