@@ -135,11 +135,6 @@ blockquote {
     vertical-align: middle;
     min-height: 100%;
     width: 100%;
-    background-image: url('../images/banner-olinda.jpg');
-    background-size: cover;
-    background-position: center top;
-    position: absolute;
-    bottom: 0;
 }
 .banner:after {
     position: absolute;
@@ -238,14 +233,10 @@ blockquote {
     position: relative;
 }
 .bg-image-1 {
-    background: url("../images/olinda-centro-historico.jpg") 50% 0px no-repeat;
-    background-size: cover;
-    background-position:center center;
+    background: url("../images/bg-image-1.jpg") 50% 0px no-repeat;
 }
 .bg-image-2 {
-    background: url("../images/olinda-artesanato.jpg") 50% 0px no-repeat;
-    background-size: cover;
-    background-position:center bottom;
+    background: url("../images/bg-image-2.jpg") 50% 0px no-repeat;
 }
 
 /* Misc
