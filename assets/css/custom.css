@@ -7,3 +7,25 @@ Created:November 2014
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 File Description: Place here your custom CSS styles
 */
+
+.banner-image {
+    vertical-align: middle;
+    min-height: 100%;
+    width: 100%;
+    background-image: url('../images/banner-olinda.jpg');
+    background-size: cover;
+    background-position: center top;
+    position: absolute;
+    bottom: 0;
+}
+
+.bg-image-1 {
+    background: url("../images/olinda-centro-historico.jpg") 50% 0px no-repeat;
+    background-size: cover;
+    background-position:center center;
+}
+.bg-image-2 {
+    background: url("../images/olinda-artesanato.jpg") 50% 0px no-repeat;
+    background-size: cover;
+    background-position:center bottom;
+}
