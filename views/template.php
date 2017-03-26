@@ -119,7 +119,7 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 object-non-visible animated object-visible fadeIn" data-animation-effect="fadeIn">
                             <h1 class="text-center">Nós somos <span>Cultural</span></h1>
-                            <p class="lead text-center">Texto resumido sobreo o que é o Bailando nas Ladeiras... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos debitis provident nulla illum minus enim praesentium repellendus ullam cupiditate reiciendis optio voluptatem, recusandae nobis quis aperiam, sapiente libero ut at.</p>
+                            <p class="lead text-center">Texto resumido sobreo o que é o Bailando nas Ladeiras... Lorem ipsumn dolor sit amet, consectetur adipisicing elit. Eos debitis provident nulla illum minus enim praesentium repellendus ullam cupiditate reiciendis optio voluptatem, recusandae nobis quis aperiam, sapiente libero ut at.</p>
                         </div>
                     </div>
                 </div>
